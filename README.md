@@ -105,6 +105,8 @@ We implement our model using [tensorflow](http://tensorflow.org) package. Thanks
 
 We also thank Instagram for their API and Instagram users for their valuable posts.
 
+Additionally, we thank [coco-caption](https://github.com/tylin/coco-caption) developers for providing caption evaluation tools.
+
 ## Authors
 
 [Cesc Chunseong Park](http://vision.snu.ac.kr/cesc/), Byeongchang Kim and [Gunhee Kim](http://www.cs.cmu.edu/~gunhee/)
