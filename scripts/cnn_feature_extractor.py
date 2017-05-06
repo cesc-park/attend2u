@@ -7,7 +7,7 @@ from tensorflow.python.ops import control_flow_ops
 from tensorflow.python.ops import gen_image_ops
 from tensorflow.python.ops import string_ops
 from tensorflow.contrib.slim.python.slim.nets import resnet_v1
-from tensorflow.contrib.slim.python.slim.preprocessing import vgg_preprocessing
+import vgg_preprocessing
 import numpy as np
 from tqdm import tqdm
 
