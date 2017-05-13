@@ -133,7 +133,7 @@ def main(_):
                       FLAGS.output_dir,
                       os.path.basename(file_names[i]) + '.npy'
                   ),
-                  pool5_value[i]
+                  pool5_value[i].astype(np.float32)
               )
         except tf.errors.OutOfRangeError:
           print "Done feature extraction -- epoch limit reached"
