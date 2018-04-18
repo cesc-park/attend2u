@@ -18,8 +18,8 @@ If you use this code or dataset as part of any published research, please refer 
 
 ```
 @inproceedings{attend2u:2017:CVPR,
-    author    = {Cesc Chunseong Park and Byeongchang Kim and Gunhee Kim},
-    title     = "{Attend to You: Personalized Image Captioning with Context Sequence Memory Networks}"
+    author    = {Park, Cesc Chunseong and Kim, Byeongchang and Kim, Gunhee},
+    title     = "{Attend to You: Personalized Image Captioning with Context Sequence Memory Networks}",
     booktitle = {CVPR},
     year      = 2017
 }
@@ -27,8 +27,8 @@ If you use this code or dataset as part of any published research, please refer 
 
 ```
 @inproceedings{attend2u:2018:TPAMI,
-    author    = {Cesc Chunseong Park and Byeongchang Kim and Gunhee Kim},
-    title     = "{Towards Personalized Image Captioning via Multimodal Memory Networks}"
+    author    = {Park, Cesc Chunseong and Kim, Byeongchang and Kim, Gunhee},
+    title     = "{Towards Personalized Image Captioning via Multimodal Memory Networks}",
     booktitle = {IEEE TPAMI},
     year      = 2018
 }
