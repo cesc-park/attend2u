@@ -5,7 +5,7 @@
 This project hosts the code for our **CVPR 2017** paper and **TPAMI 2018** paper.
 
 - Cesc Chunseong Park, Byeongchang Kim and Gunhee Kim. *Attend to You*: Personalized Image Captioning with Context Sequence Memory Networks. In *CVPR*, 2017. (**Spotlight**) [[arxiv]](https://arxiv.org/abs/1704.06485)
-- Cesc Chunseong Park, Byeongchang Kim and Gunhee Kim. Towards Personalized Image Captioning via Multimodal Memory Networks. In *IEEE TPAMI*, 2018. [[pdf]]()
+- Cesc Chunseong Park, Byeongchang Kim and Gunhee Kim. Towards Personalized Image Captioning via Multimodal Memory Networks. In *IEEE TPAMI*, 2018. [[pdf]](https://ieeexplore.ieee.org/abstract/document/8334621/)
 
 We address personalization issues of image captioning, which have not been discussed yet in previous research.
 For a query image, we aim to generate a descriptive sentence, accounting for prior knowledge such as the user's active vocabularies in previous documents.
